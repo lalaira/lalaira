@@ -8,6 +8,19 @@
 </div>
 
 <div align="center">
+  <h2><b>Moreover</b></h2>
+</div>
+
+<div align="center">
+    - 🔭 I am a student based in Nepal, doing mostly math(olympiad and pure).<br>
+    - 👑 I hope to get into Nepal's IMO team by 2027. Go Nepal!<br>
+    - ☁ I have a huge interest in problem-solving and beautiful algorithms. I try to develop my own algorithms from time to time.<br>
+    - 🟩 I play Minecraft a lot, although I still carry out nerdy things in the game(involving redstone and such).
+</div>
+
+
+
+<div align="center">
   - <b>Name:</b> Ira KC <br>
   - <b>DOB(MM/DD/YYYY):</b> 08/27/2009 <br>
   - <b>Interests:</b> Math, Economics, Poetry, Programming, STEM, Tabble Tennis <br>
