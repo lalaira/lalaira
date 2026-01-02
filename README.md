@@ -28,6 +28,7 @@
     - 📘 I enjoy reading different genres of book, my current favorite writer being Khaled Hosseini<br> 
     - 🥥 I plan on doing my undergrad abroad (Probably the UK/US/Singapore) <br>
     - 🍩 Truly just wanna be the best version myself in every area of my life <br>
+    - ☀️ My oly math journey started from Junior Mathematics Olympiad Camp (by MIN), where I got the gold honor <br> 
 </div>
 <div align="center">
   <h2><b>❓Currently Doing❓</b></h2>
@@ -38,6 +39,7 @@
   - 📖 Developing a project for an IT exhibition <br>
   - 🧮 Working in Mathematics Initiatives in Nepal <br>
   - 🏫 Preparing for M/J AS Level Exams <br> 
+  - 📝 Vice-President of Research Club <br>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
