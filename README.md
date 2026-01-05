@@ -29,6 +29,7 @@
     - 🥥 I plan on doing my undergrad abroad (Probably the UK/US/Singapore) <br>
     - 🍩 Truly just wanna be the best version myself in every area of my life <br>
     - ☀️ My oly math journey started from Junior Mathematics Olympiad Camp (by MIN), where I got the gold honor <br> 
+    - 📚 I actually really enjoy teaching, I worked as a math tutor for around 2 months~ <br> 
 </div>
 <div align="center">
   <h2><b>❓Currently Doing❓</b></h2>
