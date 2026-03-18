@@ -37,7 +37,6 @@
 
 <div align="center">
   - ➗ Preparations for the IMO and IEO <br>
-  - 📖 Developing a project for an IT exhibition <br>
   - 🧮 Working in Mathematics Initiatives in Nepal <br>
   - 🏫 Preparing for M/J AS Level Exams <br> 
   - 📝 Vice-President of Research Club <br>
